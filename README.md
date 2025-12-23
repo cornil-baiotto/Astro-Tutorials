@@ -9,7 +9,7 @@ Repository: `cornil-baiotto/tutorials`
 Observing notes to help prepare optical/near-IR spectroscopy of galaxies using Magellan-Clay/LDSS3 and Magellan-Baade/FIRE, including LDSS3 mask files, observing plans and logs for the cluster lens MACSJ2243–0935 (2025).
 
 
-[ALMA Data Reduction](casa_almadr_2025v0.pdf) \
+[ALMA Data Reduction](casa_almadr_2025v1.pdf) \
 CASA tutorial to help with ALMA data reduction, based on the study of a strongly lensed star-forming galaxy at cosmic noon.
 
 
