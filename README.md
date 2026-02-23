@@ -9,9 +9,6 @@ Repository: `cornil-baiotto/tutorials`
 - [Magellan Observing Notes](magellan_obsnotes_2025v1.pdf) \
 Observing notes to help prepare optical and near-IR spectroscopy of galaxies using Magellan-Clay/LDSS3 and Magellan-Baade/FIRE, including LDSS3 mask files, observing plans, and logs for the cluster lens MACSJ2243–0935 (2025).
 
-- [Introduction to ALMA](alma_basics_cycle13.pdf) \
-Slides introducing radio interferometry, ALMA capabilities, and practical aspects for users. Additional material is available in the ALMA Cycle 13 [community events](https://github.com/cornil-baiotto/ALMA-community-events) repository.
-
 - [ALMA Data Reduction](casa_almadr_2025v1.pdf) \
 CASA tutorial for ALMA data reduction, illustrated with mock ALMA data and based on the study of a strongly lensed galaxy.
 
