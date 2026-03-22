@@ -1,6 +1,6 @@
 ## 🌌 Welcome
 
-Repository: `cornil-baiotto/tutorials`
+Repository: `cornil-baiotto/Astro-Tutorials`
 
 ---
 
